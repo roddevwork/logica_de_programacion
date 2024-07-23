@@ -25,10 +25,10 @@
 
 ## Roadmap
 
-| #   | Ejercicio                                          |     |     |     |
-| --- | -------------------------------------------------- | --- | --- | --- |
-| 00  | [SINTAXIS, VARIABLES, TIPOS DE DATOS Y HOLA MUNDO] |
-| 01  | [OPERADORES Y ESTRUCTURAS DE CONTROL]              |
+| #   | Ejercicio                                          | JS        | PY        |     |
+| --- | -------------------------------------------------- | --------- | --------- | --- |
+| 00  | [SINTAXIS, VARIABLES, TIPOS DE DATOS Y HOLA MUNDO] | [&check;] | [&check;] |
+| 01  | [OPERADORES Y ESTRUCTURAS DE CONTROL]              | [&check;] | [&check;] |
 | 02  | [FUNCIONES Y ALCANCE]                              |
 | 03  | [ESTRUCTURAS DE DATOS]                             |
 | 04  | [CADENAS DE CARACTERES]                            |
@@ -53,4 +53,11 @@
 | 23  | [SINGLETON]                                        |
 | 24  | [DECORADORES]                                      |
 | 25  | [LOGS]                                             |
-|  |
+|     |
+
+## Autor
+
+- **roddevwork**. Ejercicios hechos por mi
+- En los siguientes lenguajes:
+  - Javascript
+  - Python
